@@ -1,0 +1,13 @@
+Dependencies for Project 'lab1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\tm4c123gh6pm.h)(0x51D4154A)()
+F (output.c)(0x61EF70C3)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\output.o --omf_browse .\output.crf --depend .\output.d)
+I (C:\Keil\ARM\RV31\INC\Net_Config.h)(0x532C1630)
+I (C:\Keil\ARM\RV31\INC\RTL.h)(0x532C1630)
+F (.\startup.s)(0x5197112A)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (..\lab3\PLL.c)(0x61EFCA04)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (..\lab3\PLL.h)(0x61EFCA03)
+F (..\lab3\PLL.h)(0x61EFCA03)()
+F (..\lab5\example.c)(0x623D98E2)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\example.o --omf_browse .\example.crf --depend .\example.d)
+I (..\lab5\tm4c123gh6pm.h)(0x51D4154A)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (..\lab5\PLL.h)(0x61EFCA03)

@@ -1,0 +1,17 @@
+Dependencies for Project 'endsem', Target 'Target 1': (DO NOT MODIFY !)
+F (.\PLL.h)(0x61EFCA03)()
+F (.\startup.s)(0x5197112A)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\tm4c123gh6pm.h)(0x51D4154A)()
+F (.\PLL.c)(0x61EFCA04)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\pll.o --omf_browse .\pll.crf --depend .\pll.d)
+I (PLL.h)(0x61EFCA03)
+F (.\endsem.c)(0x62556012)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\endsem.o --omf_browse .\endsem.crf --depend .\endsem.d)
+I (tm4c123gh6pm.h)(0x51D4154A)
+I (PLL.h)(0x61EFCA03)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h)(0x532C1740)
+I (C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h)(0x532C1740)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4.h)(0x532C1AEA)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7E87C)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x532C1AEA)
+I (C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h)(0x532C1AEA)
+I (C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h)(0x532C1740)

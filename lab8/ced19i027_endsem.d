@@ -1,0 +1,11 @@
+.\ced19i027_endsem.o: CED19I027_endsem.c
+.\ced19i027_endsem.o: tm4c123gh6pm.h
+.\ced19i027_endsem.o: PLL.h
+.\ced19i027_endsem.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\ced19i027_endsem.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\ced19i027_endsem.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\ced19i027_endsem.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\ced19i027_endsem.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\ced19i027_endsem.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\ced19i027_endsem.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\ced19i027_endsem.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h

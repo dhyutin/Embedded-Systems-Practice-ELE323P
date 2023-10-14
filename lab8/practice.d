@@ -1,0 +1,11 @@
+.\practice.o: practice.c
+.\practice.o: tm4c123gh6pm.h
+.\practice.o: PLL.h
+.\practice.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123.h
+.\practice.o: C:\Keil\ARM\Inc\TI\TM4C123\TM4C123GH6PM.h
+.\practice.o: C:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\practice.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\practice.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\practice.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\practice.o: C:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\practice.o: C:\Keil\ARM\Inc\TI\TM4C123\system_TM4C123.h
